@@ -1,16 +1,19 @@
-## Hi there 👋
+# Saitaro Cage
+**AI developer · apps, automations and agents**
 
-<!--
-**saitaro-dev/saitaro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn ideas into working software quickly, using AI-assisted development
+(Codex, GPT) with real engineering discipline: tests, docs, deployment.
 
-Here are some ideas to get you started:
+## What I build
+- **AI apps and agents**, from prototype to production
+- **Business automations**, WhatsApp, spreadsheets, internal tools
+- **Websites and web apps**, full-stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [project-1](link): one line on what it solves
+- [project-2](link): one line on what it solves
+- [project-3](link): one line on what it solves
+
+## Work with me
+contact@... · LinkedIn
+Português · English
